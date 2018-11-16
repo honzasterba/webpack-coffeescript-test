@@ -84,23 +84,23 @@
 /******/ 	return __webpack_require__(__webpack_require__.s = 0);
 /******/ })
 /************************************************************************/
-    /******/ ([
-    /* 0 */
-    /***/ (function(module, exports, __webpack_require__) {
+/******/ ([
+/* 0 */
+/***/ (function(module, exports, __webpack_require__) {
 
-    console.log(__webpack_require__(1));
+console.log(__webpack_require__(1));
 
-    /***/ }),
-    /* 1 */
-    /***/ (function(module, exports) {
+/***/ }),
+/* 1 */
+/***/ (function(module, exports) {
 
-    // module.exports =
-    // 	cool: "stuff"
-    // 	answer: 42
-    // 	external: require "./cup2.coffee"
-    // 	again: require "./cup2"
+// module.exports =
+// 	cool: "stuff"
+// 	answer: 42
+// 	external: require "./cup2.coffee"
+// 	again: require "./cup2"
 
 
 
-    /***/ })
-    /******/ ]);
+/***/ })
+/******/ ]);
